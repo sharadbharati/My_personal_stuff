@@ -1,0 +1,78 @@
+My all link
+----------------------------------------------------------------------------------------------------------------------------
+
+
+https://github.com/sharadbharati
+https://www.linkedin.com/in/sharad-bharati/
+
+
+Certification: 
+------------------------------------------------------------------------------------------------------------------------------------
+
+AWS:
+
+AWS Certified Data Engineer – Associate
+https://www.credly.com/badges/86c02738-2cbe-4af7-bb87-4aced05219fa
+
+
+Microsoft :
+------------------------------------------------------------------------------------------------------------------------------
+Microsoft Certified: Fabric Data Engineer Associate
+https://learn.microsoft.com/api/credentials/share/en-in/SHARADBHARATI/3EBF96D600071250?sharingId=9BE23C12F02561A3
+
+Microsoft Certified: Power BI Data Analyst Associate
+https://learn.microsoft.com/api/credentials/share/en-in/SHARADBHARATI/C8CFF2AA8282FEFE?sharingId=9BE23C12F02561A3
+
+Microsoft Certified: Azure Developer Associate
+https://learn.microsoft.com/api/credentials/share/en-in/SHARADBHARATI/9FC1AE18E9721893?sharingId=9BE23C12F02561A3
+
+-------------------------------------------------------------------------------
+
+Microsoft Certified: Fabric Analytics Engineer Associate
+https://learn.microsoft.com/api/credentials/share/en-in/SHARADBHARATI/1C24AB4EA6A8E3A6?sharingId=9BE23C12F02561A3
+
+Microsoft Certified: Azure Data Scientist Associate
+https://learn.microsoft.com/api/credentials/share/en-in/SHARADBHARATI/4FEB0F16D7498958?sharingId=9BE23C12F02561A3
+
+Microsoft 365 Certified: Endpoint Administrator Associate
+https://learn.microsoft.com/api/credentials/share/en-in/SHARADBHARATI/AA3718355A08C2EC?sharingId=9BE23C12F02561A3
+
+---------------------------------------------------------------------------------
+Microsoft Certified: Azure Fundamentals
+https://learn.microsoft.com/api/credentials/share/en-in/SHARADBHARATI/314899BC4FF84914?sharingId=9BE23C12F02561A3
+
+Microsoft Certified: Azure Data Fundamentals
+https://learn.microsoft.com/api/credentials/share/en-in/SHARADBHARATI/20D8ACBFBF43B164?sharingId=9BE23C12F02561A3
+
+Microsoft Certified: Security, Compliance, and Identity Fundamentals
+https://learn.microsoft.com/api/credentials/share/en-in/SHARADBHARATI/314899BC4FF84914?sharingId=9BE23C12F02561A3
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Hacker Rank:
+
+SQL (Advanced):
+https://www.hackerrank.com/certificates/5c333077962a
+SQL (Intermediate):
+https://www.hackerrank.com/certificates/cb71688164e1
+SQL (Basic):
+https://www.hackerrank.com/certificates/558746bbe680
+
+Problem Solving (Intermediate):
+https://www.hackerrank.com/certificates/803191dee212
+Problem Solving (Basic):
+https://www.hackerrank.com/certificates/689d1f773ea3
+
+Python (Basic): 
+https://www.hackerrank.com/certificates/25fc810ada7a
+
+--------------------------------------------------------------------------------------------------------------------------
+
+GFG:
+
+Getting Started with Python
+https://media.geeksforgeeks.org/courses/certificates/f49f9b98ff8b7b5ceeeef1791e33bb14.pdf
+
+11 Weeks Workshop on Data Structures and Algorithms
+https://media.geeksforgeeks.org/courses/certificates/34963278fd0eccafb52c7847610819eb.pdf
+----------------------------------------------------------------------------------------------------------------------------------
